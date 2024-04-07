@@ -13,6 +13,10 @@ The assignment is to create a Telegram bot that performs the following functions
 - Automate fetching daily view counts of Giphy projects.
 - Send daily updates to users with the view counts.
 
+## Demo 
+
+![](https://github.com/shubharthaksangharsha/internshala-telegram-bot-assignment/blob/main/internshallah-project-bot.gif)
+
 ## Features
 
 - **Bot Commands:**
