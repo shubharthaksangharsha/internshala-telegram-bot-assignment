@@ -2,6 +2,8 @@
 
 This Telegram bot allows you to track daily views of specific Giphy projects and receive updates directly in your Telegram chat.
 
+Created by [@shubharthak](https://shubharthaksangharsha.github.io/)
+
 ## Assignment Overview
 
 The assignment is to create a Telegram bot that performs the following functions:
